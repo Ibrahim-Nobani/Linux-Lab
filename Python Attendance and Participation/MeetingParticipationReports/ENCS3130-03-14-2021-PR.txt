@@ -1,0 +1,163 @@
+09:52:25 From Mohammad Jubran to Everyone : Good Morning
+09:54:21 From Shahd Muhareb to Mohammad Jubran(Direct Message) : صباح الخير دكتور 
+09:55:56 From Mohammad Jubran to Everyone : Good morning to all
+09:56:17 From 1171480-Rana Saad to Everyone : good morning
+09:56:37 From 1180955_Emil Abulail to Everyone : good morning
+10:02:07 From Asmaa Ankoush -1180411 to Everyone : صباح النور
+10:02:18 From raghad rahil to Everyone : صباح النور
+10:02:22 From Summar Khraisshi to Everyone : صباح الخير دكتور
+10:04:32 From 1180175-Miral Rimawi to Everyone : line
+10:04:35 From Aseel Sabri to Everyone : السطر الل فيه
+10:04:35 From 1180955_Emil Abulail to Everyone : line
+10:04:38 From 1171482-lama alhatel to Everyone : line
+10:06:23 From Ahmad Abbas to Everyone : لا
+10:06:33 From Aseel Sabri to Everyone : اه
+10:06:34 From raghad rahil to Everyone : yes
+10:08:32 From raghad rahil to Everyone : كل يلي بينتهو بحرف اللام
+10:08:33 From Ahmad Abbas to Everyone : ritchle and bell
+10:08:33 From 1180955_Emil Abulail to Everyone : 4
+10:08:34 From Asmaa Ankoush -1180411 to Everyone : bell
+10:08:34 From aseel saleh to Everyone : 4
+10:08:34 From 1181034-Rawan Salama to Everyone : Ritchie at bell
+10:08:51 From aseel saleh to Everyone : by
+10:08:52 From 1180955_Emil Abulail to Everyone : by
+10:08:57 From Summar Khraisshi to Everyone : my
+10:09:05 From 1181034-Rawan Salama to Everyone : ritchie
+10:09:05 From aseel saleh to Everyone : 4
+10:09:33 From 1171482-lama alhatel to Everyone : all lines
+10:14:42 From Summar Khraisshi to Everyone : للارقام والرموز
+10:15:03 From Summar Khraisshi to Everyone : $
+10:15:28 From 1180955_Emil Abulail to Everyone : grep '\^[A-Za-z]\' *.txt
+10:15:32 From 1171482-lama alhatel to Everyone : grep '[^$a-z]'
+10:15:37 From 1181034-Rawan Salama to Everyone : GREP  '^[A-Za-Z]& '
+10:15:40 From Aseel Sabri to Everyone : '[^A-Za-z]$'
+10:15:41 From 1181034-Rawan Salama to Everyone : $***
+10:15:44 From Summar Khraisshi to Everyone : grep '[A-Za-z$]$'
+10:15:46 From Ahmad Abbas to Everyone : grep '[^A-Z]$'
+10:15:56 From aseel saleh to Everyone : grep '[^A-ZA-z]
+10:16:20 From Ahmad Abbas to Everyone : grep '[^A-Za-Z]$'
+10:16:23 From Summar Khraisshi to Everyone : grep '[^A-Za-z]$'
+10:16:40 From 1180955_Emil Abulail to Everyone : grep [^A-Za-z]$ *.txt
+10:16:41 From Aseel Sabri to Everyone : '[^A-Za-z]$'
+10:18:23 From Ahmad Abbas to Everyone : اه تمام
+10:19:00 From Aseel Sabri to Everyone : '[^A]$'
+10:19:03 From 1181034-Rawan Salama to Everyone : grep '[^A]$' .txt
+10:19:08 From 1171482-lama alhatel to Everyone : grep'[^A]$'
+10:19:09 From Summar Khraisshi to Everyone : grep '[^B-Za-z]$'
+10:19:11 From Manal AbuElouf to Everyone : '[^A]$'
+10:19:21 From aseel saleh to Everyone : grep '[^A]$'
+10:19:23 From Summar Khraisshi to Everyone : ااه ااه
+10:19:27 From Summar Khraisshi to Everyone : تمامم
+10:19:37 From 1181034-Rawan Salama to Everyone : تمام
+10:21:40 From aseel saleh to Everyone : ممكن
+10:21:44 From aseel saleh to Everyone : تعيدي اخر وحده
+10:23:37 From Aseel Sabri to Everyone : طب لو بدي - و[ مع بعض؟
+10:23:56 From Aseel Sabri to Everyone : تمام
+10:24:08 From 1181034-Rawan Salama to Everyone : '.'
+10:24:09 From Aseel Sabri to Everyone : \.
+10:24:11 From Eid Zaben to Everyone : \.
+10:24:13 From Summar Khraisshi to Everyone : '/.
+10:24:14 From 1171482-lama alhatel to Everyone : '\.'
+10:24:14 From Ahmad Abbas to Everyone : grep '\.'
+10:25:25 From aseel saleh to Everyone : نعمل ملف ونضيف عليه الموجودات بالتجربة
+10:25:27 From aseel saleh to Everyone : دكتور
+10:26:10 From aseel saleh to Everyone : تمام
+10:26:27 From Aseel Sabri to Everyone : ما زبط معي احط - و[ بنفس الريجيكس
+10:30:26 From Ahmad Abbas to Everyone : []-
+10:32:02 From Ahmad Abbas to Everyone : grep '[],-' '[a-z]'
+10:32:41 From Ahmad Abbas to Everyone : دكتور الي وديتها زبطت
+10:34:55 From Aseel Sabri to Everyone : ليش اخد ال.
+10:37:06 From Aseel Sabri to Everyone : وما اخد الداش كمان
+10:40:22 From 1180955_Emil Abulail to Everyone : grep '^[a-z]'
+10:40:33 From mohammad abu-zenah to Everyone : ^[a-z]
+10:40:45 From Summar Khraisshi to Everyone : ^
+10:40:50 From Asmaa Ankoush -1180411 to Everyone : grep ^[a-z] exp3.txt
+10:41:07 From Summar Khraisshi to Everyone : exp.txt
+10:41:16 From Summar Khraisshi to Everyone : '
+10:42:08 From Summar Khraisshi to Everyone : $
+10:42:12 From 1180955_Emil Abulail to Everyone : grep [a-z]$
+10:42:27 From Summar Khraisshi to Everyone : ^
+10:45:52 From Summar Khraisshi to Everyone : grep '\<ee\>$'
+10:46:45 From Aseel Sabri to Everyone : شيلي ال][
+10:47:13 From Summar Khraisshi to Everyone : or
+10:47:33 From Summar Khraisshi to Everyone : ما في فررق
+10:49:12 From Summar Khraisshi to Everyone : \<ee\>
+10:49:24 From Asmaa Ankoush -1180411 to Everyone : ~$ grep '\<ie\>' exp3.txt
+10:49:55 From Asmaa Ankoush -1180411 to Everyone : اه
+10:50:12 From Summar Khraisshi to Everyone : \<
+10:50:31 From Summar Khraisshi to Everyone : '
+10:50:48 From 1180955_Emil Abulail to Everyone : txt
+10:51:02 From Summar Khraisshi to Everyone : my
+10:51:13 From Summar Khraisshi to Everyone : ما في ie
+10:53:15 From Aseel Sabri to Everyone : .*
+10:53:19 From Summar Khraisshi to Everyone : .
+10:53:58 From Aseel Sabri to Everyone : .*ie.*
+10:56:14 From Aseel Sabri to Everyone : ليش اخد الجملة كاملة
+10:56:18 From Aseel Sabri to Everyone : مش كلمة
+10:56:53 From Aseel Sabri to Everyone : اه اه
+10:57:11 From Aseel Sabri to Everyone : اه
+10:57:16 From Aseel Sabri to Everyone : بس خلصت تمام فهمت
+10:57:20 From Aseel Sabri to Everyone : يسلمو
+11:02:45 From Ahmad Abbas to Everyone : في 2 دوت بس
+11:02:57 From 1171482-lama alhatel to Everyone : with 2 .
+11:03:04 From Osama Rihami to Everyone : اول سطر في حرفين
+11:04:19 From Aseel Sabri to Everyone : ما زبط الكوماند معي
+11:05:16 From Aseel Sabri to Everyone : اه اه
+11:19:24 From Asmaa Ankoush -1180411 to Everyone : اه
+11:19:30 From Manal AbuElouf to Everyone : yes
+11:19:32 From Summar Khraisshi to Everyone : yes
+11:19:33 From Asmaa Ankoush -1180411 to Everyone : بترجعها
+11:19:40 From raghad rahil to Everyone : اه
+11:19:41 From 1180175-Miral Rimawi to Everyone : yes
+11:19:44 From 1171482-lama alhatel to Everyone : yes
+11:20:20 From Osama Rihami to Everyone : '^\(.\)\1.*\1\1$'
+11:20:31 From Asmaa Ankoush -1180411 to Everyone : بحط الريجستر1
+11:21:01 From Manal AbuElouf to Everyone : '^\(mm\)
+11:26:15 From Ahmad Abbas to Everyone : دكتور بس تعيد المطلوب
+11:27:50 From 1180955_Emil Abulail to Everyone : grep '^\(.\).\(.\).*\2\1$'
+11:27:51 From Ahmad Abbas to Everyone : بعد ال (.\)
+11:28:34 From Shahd Muhareb to Everyone : اللي  خلص اللي طلبه الدكتور 
+11:28:38 From Shahd Muhareb to Everyone : يعمل هاي 
+11:28:41 From Shahd Muhareb to Everyone : the line that start with any tow character and end with the same tow character but they are reversed 
+11:30:50 From Osama Rihami to Everyone : لو ما حطيت ^ شو بصير
+11:31:00 From Ahmad Abbas to Everyone : grep '^\(.\)\(.\).*\2\1$'
+11:31:03 From 1180955_Emil Abulail to Everyone : grep '^\(.\)(.\).*\2\1$'
+11:32:59 From Osama Rihami to Everyone : تمام
+11:36:08 From Ahmad Abbas to Everyone : طب كيف عمستوى word ?
+11:38:34 From Aseel Sabri to Everyone : grep '^\(\<my\>\).*\1$' f2.txtهاي اذا بده يبلش بmy ,dogw tdih
+11:38:40 From Aseel Sabri to Everyone : ويخلص فيها**
+11:39:28 From Aseel Sabri to Everyone : grep '^\(\<shahd\>\)\1'
+11:40:06 From Aseel Sabri to Everyone : بنحط بدالها .*
+11:42:07 From Aseel Sabri to Everyone : grep '^\(\<.*\>\)\1'
+11:42:56 From Osama Rihami to Everyone : بس مش .* بتوخذ كل السطر
+11:53:47 From 1181034-Rawan Salama to Everyone : بس ما بتتخزن بلفايل صح؟
+11:54:25 From 1181034-Rawan Salama to Everyone : تمام تمام
+12:00:20 From Osama Rihami to Everyone : enter
+12:00:24 From Summar Khraisshi to Everyone : enter
+12:01:40 From mohammad abu-zenah to Everyone : ctrl +s, ctrl+x  اريح هيك
+12:02:43 From 1171482-lama alhatel to Everyone : yes
+12:04:01 From Shahd Muhareb to Everyone : delete the lines that contains word Unix or UNIX
+12:04:23 From Summar Khraisshi to Everyone : ااه دكتور
+12:05:00 From Summar Khraisshi to Mohammad Jubran(Direct Message) : بس لانه المايك عندي مش شغال
+12:06:08 From Shahd Muhareb to Everyone : delete the word unix from each lines of file 
+12:09:14 From Osama Rihami to Everyone : sed '/U[nixNIX]/d'
+12:10:35 From 1171482-lama alhatel to Everyone : ctrl c
+12:10:43 From 1181034-Rawan Salama to Everyone : ctrl c
+12:11:18 From Shahd Muhareb to Everyone : تمام أسامة 
+12:13:54 From Osama Rihami to Everyone : كيف
+12:18:54 From Osama Rihami to Everyone : جربي حطيها اول الصفحة
+12:22:33 From Asmaa Ankoush -1180411 to Everyone : sed -i '/[Uu][Nn][Ii][xX]/d' exp1.txt
+12:22:44 From Asmaa Ankoush -1180411 to Everyone : sed -'/[Uu][Nn][Ii][xX]/d' exp1.txt
+12:23:12 From Summar Khraisshi to Everyone : اعمل شير ؟عملت كل الكوماند
+12:33:33 From Summar Khraisshi to Everyone : يسسس
+12:33:47 From Osama Rihami to Everyone : يعطيكم العافية
+12:33:49 From 1181034-Rawan Salama to Everyone : دكتور في تودوو؟
+12:34:14 From Summar Khraisshi to Everyone : متى التودو
+12:34:15 From mohammad abu-zenah to Everyone : لا جاهز دكتور
+12:34:22 From Manal AbuElouf to Everyone : yes
+12:34:40 From 1180175-Miral Rimawi to Everyone : يعطيكم العافية
+12:34:45 From mohammad abu-zenah to Everyone : يعطيك العافية دكتور
+12:34:45 From Summar Khraisshi to Everyone : الله يعافيك
+12:34:53 From aseel saleh to Everyone : ان شاء الله
+12:35:18 From Osama Rihami to Everyone : ابعثلنا تسجيل المحاضرة
+12:35:44 From Asmaa Ankoush -1180411 to Everyone : يعطيكم العافية

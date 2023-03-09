@@ -1,0 +1,111 @@
+14:16:29 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : yes
+14:17:15 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : دكتور مدتو كتير قصيرة
+14:17:30 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : يعني بذات هلا في ميدتيرمات كتير
+14:18:00 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : ااه صحيح  بس بده شغل
+14:18:10 From Aseel saleh to Everyone : دكتور انا مش سامع ولا اشي
+14:18:39 From Mohammad Jubran to Aseel saleh(Direct Message) : The other students are hearing our voice
+14:18:43 From abdallah Bahrawi to Everyone : مسموع الصوت
+14:19:00 From Aseel saleh to Mohammad Jubran(Direct Message) : بدي أحاول أغير الجهاز شكله في خلل
+14:19:25 From Aseel Sabri to Everyone : ما قرأته
+14:19:25 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : ااه لو للقاء القادم احسن
+14:19:26 From 1182600-raghad rahil to Everyone : لسا
+14:19:27 From Asmaa Ankoush -1180411 to Everyone : ما قراناه
+14:19:28 From Manal AbuElouf to Everyone : no we didnt
+14:22:17 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : دكتور ال record
+14:22:21 From Osama Rihami to Everyone : التسجيل يا دكتور
+14:22:54 From Aseel Sabri to Everyone : تسجيل اللاب الماضي ما بعته
+14:26:50 From 1171482-lama alhatel to Everyone : no
+14:26:54 From Ahmad Abbas to Everyone : no
+14:27:08 From 1182600-raghad rahil to Everyone : زي اللينكد ليست
+14:27:47 From abdallah Bahrawi to Everyone : ما بقدر نعدل فيه
+14:28:38 From 1182600-raghad rahil to Everyone : tuple[1]
+14:29:13 From 1182600-raghad rahil to Everyone : بعطي ايرور
+14:29:16 From 1171482-lama alhatel to Everyone : error
+14:29:35 From 1182600-raghad rahil to Everyone : بعدلها عادي
+14:29:35 From abdallah Bahrawi to Everyone : error
+14:29:37 From 1181034-Rawan Salama to Everyone : بغيرها
+14:29:48 From abdallah Bahrawi to Everyone : فكرت بال tuple
+14:30:04 From 1181034-Rawan Salama to Everyone : tuple read only
+14:30:10 From 1181034-Rawan Salama to Everyone : list you can edit
+14:30:12 From Summar khraishi to Everyone : list بقدر اعدل عليها
+14:30:14 From Asmaa Ankoush -1180411 to Everyone : list []
+14:30:20 From 1171482-lama alhatel to Everyone : tuple () and read only
+14:30:22 From Asmaa Ankoush -1180411 to Everyone : touple ()
+14:30:25 From abdallah Bahrawi to Everyone : list بدخل فهيا parentheses
+14:30:33 From 1171482-lama alhatel to Everyone : several
+14:31:44 From 1171482-lama alhatel to Everyone : name code dept
+14:32:28 From Aseel Sabri to Everyone : ممنوع الkey يتكرر
+14:32:28 From 1180955_Emil Abulail to Everyone : no
+14:35:09 From Asmaa Ankoush -1180411 to Everyone : لباينري
+14:35:09 From abdallah Bahrawi to Everyone : 2 , 8, 16
+14:35:41 From abdallah Bahrawi to Everyone : هاي integer بلأصل
+14:36:28 From Ahmad Abbas to Everyone : طب لو اكس كانت حرف ما بزبط ولا بوخذ قيمة
+14:37:10 From 1182600-raghad rahil to Everyone : ازا باينري بعطي ايرور اما ازا وحدة من حروف الهكسا بحولها عادي اظن
+14:37:28 From 1171482-lama alhatel to Everyone : 100
+14:38:03 From 1182600-raghad rahil to Everyone : بتتغير قيمة a
+14:38:19 From 1171482-lama alhatel to Everyone : a = a/c
+14:38:21 From Majed Aboudi to Everyone : a/c
+14:39:30 From 1182600-raghad rahil to Everyone : binary
+14:40:16 From abdallah Bahrawi to Everyone : بنفذ كل اشي بعد ال tab
+14:41:08 From abdallah Bahrawi to Everyone : اذا بح
+14:41:16 From abdallah Bahrawi to Everyone : بحط space واحد ما بزبط
+14:41:27 From abdallah Bahrawi to Everyone : لازم tab
+14:44:29 From Summar khraishi to Everyone : مس موجودة
+14:58:39 From abdallah Bahrawi to Everyone : print(x,'16') هيك بزبط
+14:59:29 From Asmaa Ankoush -1180411 to Everyone : 10.0
+14:59:30 From mohammad abu-zenah to Everyone : 10.0
+14:59:32 From 1180955_Emil Abulail to Everyone : 10.0
+14:59:33 From Bara Musleh to Everyone : float
+15:05:28 From mohammad abu-zenah to Everyone : 10 xor 9=3 صحيحة
+15:05:41 From Shahd Muhareb to Everyone : مزبوط 
+15:05:57 From Asmaa Ankoush -1180411 to Everyone : 101
+15:06:03 From mohammad abu-zenah to Everyone : 2
+15:06:04 From Asmaa Ankoush -1180411 to Everyone : 11*
+15:06:06 From 1171482-lama alhatel to Everyone : 10
+15:08:21 From Aseel Sabri to Everyone : اعطاني 0.5 انا
+15:08:46 From abdallah Bahrawi to Everyone : وانا 0.5
+15:09:12 From Aseel Sabri to Everyone : اه
+15:09:12 From abdallah Bahrawi to Everyone : اه
+15:09:14 From aseel saleh to Everyone : yes
+15:11:03 From 1182600-raghad rahil to Everyone : python --version
+15:13:08 From 1180175-Miral Rimawi to Everyone : تمام يسلمو دكتور
+15:14:27 From Ahmad Abbas to Everyone : list
+15:14:27 From Aseel Sabri to Everyone : list
+15:14:28 From 1181034-Rawan Salama to Everyone : list
+15:14:30 From Asmaa Ankoush -1180411 to Everyone : list
+15:14:32 From aseel saleh to Everyone : lisy
+15:14:34 From 1171482-lama alhatel to Everyone : list
+15:14:35 From aseel saleh to Everyone : list
+15:14:35 From Summar khraishi to Everyone : list
+15:14:35 From abdallah Bahrawi to Everyone : list
+15:14:36 From 1181034-Rawan Salama to Everyone : []
+15:14:36 From Bara Musleh to Everyone : list
+15:14:37 From 1182600-raghad rahil to Everyone : list
+15:15:45 From 1171482-lama alhatel to Everyone : start 0 and step 1
+15:17:31 From abdallah Bahrawi to Everyone : num بتوخذ كل القيم من 10 - 20
+15:20:50 From 1181034-Rawan Salama to Everyone : no
+15:20:51 From abdallah Bahrawi to Everyone : لا
+15:20:51 From 1180955_Emil Abulail to Everyone : no
+15:20:52 From Majed Aboudi to Everyone : no
+15:20:52 From 1180175-Miral Rimawi to Everyone : no
+15:20:53 From aseel saleh to Everyone : no
+15:21:20 From Asmaa Ankoush -1180411 to Everyone : للي جوا
+15:21:29 From mahmoud rawagba-1180560 to Everyone : else للif
+15:24:56 From abdallah Bahrawi to Everyone : بقدر يمشي لحد num/2
+15:26:51 From Aseel Sabri to Everyone : طب الالس مش جاي عسوا الافيعني مش الها؟
+15:30:40 From abdallah Bahrawi to Everyone : على مستوى ال if
+15:30:48 From abdallah Bahrawi to Everyone : رح يزبط بس بكون في تكرار
+15:33:02 From 1171482-lama alhatel to Everyone : yes
+15:35:25 From 1180955_Emil Abulail to Everyone : pyt
+15:35:26 From mohammad abu-zenah to Everyone : pyton?
+15:35:32 From Majed Aboudi to Everyone : pyton
+15:35:35 From Ahmad Abbas to Everyone : Pyt
+15:35:39 From abdallah Bahrawi to Everyone : بطبع كل اشي بسطر ؟
+15:35:59 From 1180955_Emil Abulail to Everyone : python
+15:35:59 From abdallah Bahrawi to Everyone : pyton
+15:36:02 From mohammad abu-zenah to Everyone : pyton
+15:44:11 From Manal AbuElouf to Everyone : and if were working online?
+15:47:55 From 1171482-lama alhatel to Everyone : avg done
+15:52:23 From abdallah Bahrawi to Everyone : ما في file اسمو newfile
+15:58:50 From Ahmad Abbas to Everyone : اول دجت بس
+16:02:06 From aseel saleh to Everyone : ان شاء الله

@@ -1,0 +1,63 @@
+14:30:04 From Osama Rihami to Everyone : pos
+14:30:10 From 1171482-lama alhatel to Everyone : +
+14:30:22 From 1180955_Emil Abulail to Mohammad Jubran(Direct Message) : دكتور ممكن تسجل المحاضرة؟
+14:31:15 From Ahmad Abbas to Everyone : +
+14:31:26 From Osama Rihami to Everyone : +
+14:31:28 From 1180175-Miral Rimawi to Everyone : +
+14:32:16 From abdallah Bahrawi to Everyone : مش dir
+14:34:28 From mohammad abu-zenah to Everyone : لانو اكيد فولس
+14:34:30 From Ahmad Abbas to Everyone : الي بعدها مش رح تفرق باللوجيك
+14:34:30 From Aseel Sabri to Everyone : عشان اذا فولس خلص
+14:34:33 From Aseel Sabri to Everyone : كلها فولس
+14:34:42 From abdallah Bahrawi to Everyone : لانو خلص اعرفنا الأوتبوت
+14:34:43 From 1171482-lama alhatel to Everyone : one false is enough
+14:40:41 From Osama Rihami to Everyone : لا
+14:44:28 From 1182600-raghad rahil to Everyone : $#
+14:54:25 From Ahmad Abbas to Everyone : ./
+14:54:27 From 1182600-raghad rahil to Everyone : ./ filename
+14:55:35 From Osama Rihami to Everyone : لو ما كتب اشي
+14:58:25 From Ahmad Abbas to Everyone : عدد الارجيمونت
+15:00:30 From mahmoud rawagba-1180560 to Everyone : bash: syntax error near unexpected token `then'
+15:00:36 From mahmoud rawagba-1180560 to Everyone : بضل يطلعلي هيك ليش؟
+15:18:25 From 1182600-raghad rahil to Everyone : if [ "$#" -ne 1 ]thenecho "Usage: number digit"exit 1fi
+15:22:53 From Ahmad Abbas to Everyone : ""
+15:23:50 From Ahmad Abbas to Everyone : -eq
+15:28:20 From 1182600-raghad rahil to Everyone : a=$(echo -n "$litter" | wc -c)
+15:28:50 From 1182600-raghad rahil to Everyone : if [ "$a" -ne 1 ]thenecho Please type a single characterexit 1
+15:29:40 From Aseel Sabri to Everyone : لا
+15:33:46 From 1171482-lama alhatel to Everyone : if
+15:34:02 From Aseel Sabri to Everyone : if [command1]thencommand2if
+15:34:05 From Aseel Sabri to Everyone : fi**
+15:34:31 From Shahd Muhareb to Everyone : else 
+15:34:32 From 1171482-lama alhatel to Everyone : if [command1] then command2 else :
+15:34:33 From Shahd Muhareb to Everyone : :
+15:34:42 From 1181034-Rawan Salama to Everyone : مس ممكن تعيدي؟
+15:37:44 From Ahmad Abbas to Everyone : no
+15:37:49 From 1171482-lama alhatel to Everyone : no
+15:37:51 From 1180175-Miral Rimawi to Everyone : لا
+15:37:57 From 1182600-raghad rahil to Everyone : ما بنفذ التاني الا ازا الأول فولس
+15:38:58 From 1181034-Rawan Salama to Everyone : ah
+15:44:14 From Osama Rihami to Everyone : shell
+15:44:15 From Aseel Sabri to Everyone : shell?
+15:44:16 From Bara Musleh to Everyone : shell
+15:44:27 From 1180955_Emil Abulail to Everyone : shell
+15:46:12 From Osama Rihami to Everyone : انا
+15:51:22 From Osama Rihami to Everyone : يعطيكم العافية
+15:51:34 From 1181034-Rawan Salama to Everyone : دكتور كتير طويل حسيتو
+15:51:47 From Manal AbuElouf to Everyone : not enough time
+15:51:50 From Osama Rihami to Everyone : صعبة
+15:51:56 From Manal AbuElouf to Everyone : and hard
+15:52:08 From 1180175-Miral Rimawi to Everyone : الوقت مش كافي
+15:52:21 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : والكوبي بيست كتير طول لزبط
+15:52:25 From abdallah Bahrawi to Everyone : فش مجال بتزوعو على التجارب بدل ما يكونو كل 3 مع بعض
+15:52:51 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : طب دكتور ليه لازم يكون التودو موحد؟
+15:52:59 From Manal AbuElouf to Everyone : yes better if its less than 3 exps
+15:53:04 From Osama Rihami to Everyone : pdf بوخذ وقت واحنا نحولو
+15:55:41 From Shahd Muhareb to Mohammad Jubran(Direct Message) : دكتور متأسفة .... بس لو نقبل تسليمهم 
+15:56:01 From Shahd Muhareb to Mohammad Jubran(Direct Message) : المرة كان في تأخير منا 
+15:56:25 From Summar khraishi to Mohammad Jubran(Direct Message) : دكتور انا كمان اشي draft
+15:56:29 From Summar khraishi to Mohammad Jubran(Direct Message) : مع انو الملف موجود
+15:57:38 From abdallah Bahrawi to Everyone : خلصت التجربة ؟
+15:59:34 From Summar khraishi to Mohammad Jubran(Direct Message) : دكتور انا لما سلمت اجاني draft
+16:00:14 From Ahmad Abbas to Mohammad Jubran(Direct Message) : دكتور تأخر معي يمكن 10 ثواني بالرفع هاي عادية صح ؟
+16:02:25 From Ahmad Abbas to Mohammad Jubran(Direct Message) : دكتور تأخر معي يمكن 10 ثواني بالرفع هاي عادية صح ؟

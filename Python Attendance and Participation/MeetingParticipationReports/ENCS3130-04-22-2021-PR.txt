@@ -1,0 +1,94 @@
+14:15:31 From aseel saleh to Everyone : ان شاء الله
+14:16:55 From 1181034-Rawan Salama to Everyone : no
+14:20:05 From aseel saleh to Everyone : hhi
+14:21:53 From 1190114-Aseel Sabri to Everyone : override
+14:21:56 From abdallah Bahrawi to Everyone : overriding
+14:21:59 From Bara Musleh to Everyone : override
+14:22:10 From 1171482-lama alhatel to Everyone : الصوت بقطع
+14:22:37 From abdallah Bahrawi to Everyone : صوتك بقطع اه
+14:22:53 From 1190114-Aseel Sabri to Everyone : hi
+14:22:54 From abdallah Bahrawi to Everyone : hi
+14:22:54 From 1190114-Aseel Sabri to Everyone : اه
+14:24:49 From Ahmad Abbas to Everyone : بنظهر المعلومات المهمة بس عن الميثود بدون التفاصيل
+14:29:38 From Ahmad Abbas to Everyone : كا نعمل اوبجكت
+14:29:39 From abdallah Bahrawi to Everyone : اعمل class جديد
+14:29:40 From Ahmad Abbas to Everyone : كل
+14:29:44 From 1190114-Aseel Sabri to Everyone : هاد زي الستاتيك بالجافا
+14:29:46 From Osama Rihami to Everyone : object
+14:30:11 From 1171482-lama alhatel to Everyone : new object of class
+14:32:32 From Ahmad Abbas to Everyone : thos
+14:32:32 From 1190114-Aseel Sabri to Everyone : this
+14:32:33 From Ahmad Abbas to Everyone : this
+14:32:36 From 1181034-Rawan Salama to Everyone : this
+14:33:05 From Bara Musleh to Everyone : name,salary
+14:33:06 From aseel saleh to Everyone : name
+14:33:06 From 1171482-lama alhatel to Everyone : name salary
+14:33:06 From Ahmad Abbas to Everyone : name and salary
+14:33:09 From aseel saleh to Everyone : salary
+14:33:11 From aseel saleh to Everyone : gh
+14:33:12 From aseel saleh to Everyone : لأا
+14:33:14 From Bara Musleh to Everyone : no
+14:33:38 From Bara Musleh to Everyone : +1
+14:33:48 From abdallah Bahrawi to Everyone : increment
+14:33:49 From 1171482-lama alhatel to Everyone : count +1
+14:33:58 From aseel saleh to Everyone : بزيد 1
+14:34:01 From mohammad abu-zenah to Everyone : بعدد كم مرة عملنا اوبجيكت
+14:35:45 From 1190114-Aseel Sabri to Everyone : private
+14:36:30 From abdallah Bahrawi to Everyone : a.name = ""
+14:36:41 From aseel saleh to Everyone : لانه  يمكن تتغير من اكثر من مكان او اكثر من الكلاس
+14:36:56 From 1181034-Rawan Salama to Everyone : it is private
+14:37:42 From abdallah Bahrawi to Everyone : object
+14:37:43 From 1190114-Aseel Sabri to Everyone : object
+14:37:43 From Ahmad Abbas to Everyone : اوبجكت
+14:37:43 From 1181034-Rawan Salama to Everyone : object
+14:37:44 From 1171482-lama alhatel to Everyone : object
+14:37:58 From Ahmad Abbas to Everyone : 2
+14:38:00 From abdallah Bahrawi to Everyone : 2
+14:38:15 From abdallah Bahrawi to Everyone : عدد ال  objects
+14:38:18 From 1180955_Emil Abulail to Everyone : AzizMohamad2
+14:38:37 From Asmaa Ankoush -1180411 to Everyone : 2
+14:42:22 From 1190114-Aseel Sabri to Everyone : بس عالاوبجكت
+14:44:46 From 1190114-Aseel Sabri to Everyone : بعطينا كل معلومات الكلاس
+14:49:19 From abdallah Bahrawi to Everyone : اه
+14:49:36 From 1180955_Emil Abulail to Everyone : yes
+14:49:38 From abdallah Bahrawi to Everyone : بزبط
+15:02:15 From 1190114-Aseel Sabri to Everyone : getattrبتقدر تعمل اكسس للبرايفت؟
+15:07:11 From 1180955_Emil Abulail to Mohammad Jubran(Direct Message) : refactor
+15:07:14 From Eid Zaben to Everyone : refactor
+15:08:40 From 1190114-Aseel Sabri to Everyone : هي بتعملش الرن اله
+15:08:43 From 1190114-Aseel Sabri to Everyone : بتعمل للمين
+15:18:31 From Asmaa Ankoush -1180411 to Everyone : auj مش متعرف
+15:22:03 From 1181034-Rawan Salama to Everyone : init
+15:22:17 From Eid Zaben to Everyone : indents
+15:22:28 From abdallah Bahrawi to Everyone : سطر 4
+15:22:33 From 1181034-Rawan Salama to Everyone : __init__
+15:22:44 From abdallah Bahrawi to Everyone : 8 و 10
+15:24:49 From abdallah Bahrawi to Everyone : animal, dogs, cats ممكن هيك
+15:25:54 From Ahmad Abbas to Everyone : اه
+15:25:57 From Eid Zaben to Everyone : yes
+15:25:59 From 1181034-Rawan Salama to Everyone : yes
+15:26:03 From 1190114-Aseel Sabri to Everyone : بالبايثون بزبط
+15:26:08 From Eid Zaben to Everyone : oh not in java
+15:26:11 From Eid Zaben to Everyone : just python
+15:26:12 From 1181034-Rawan Salama to Everyone : java no
+15:35:08 From Ahmad Abbas to Everyone : overloading
+15:35:11 From Asmaa Ankoush -1180411 to Everyone : no
+15:35:13 From 1190114-Aseel Sabri to Everyone : لا
+15:35:13 From aseel saleh to Everyone : gh
+15:35:16 From aseel saleh to Everyone : no
+15:39:00 From abdallah Bahrawi to Everyone : لا
+15:39:14 From abdallah Bahrawi to Everyone : بس ال public بصير
+15:39:22 From 1171482-lama alhatel to Everyone : no
+15:39:23 From abdallah Bahrawi to Everyone : لا
+15:50:22 From 11882600-raghad rahil to Everyone : لا
+15:52:55 From aseel saleh to Everyone : An object of a subtype can be used wherever itssupertype value is required.
+16:05:01 From Asmaa Ankoush -1180411 to Everyone : super
+16:07:18 From Mohammad Jubran to 1181034-Rawan Salama(Direct Message) : ok
+16:07:23 From 1181034-Rawan Salama to Mohammad Jubran(Direct Message) : شكرا كتير
+16:10:52 From aseel saleh to Everyone : تمام
+16:11:53 From abdallah Bahrawi to Everyone : فسمة
+16:11:57 From abdallah Bahrawi to Everyone : قسمة*
+16:28:04 From 1190114-Aseel Sabri to Everyone : finallyدايما بتتنفذ
+16:30:26 From 1190114-Aseel Sabri to Everyone : زي throw بالجافا
+16:40:16 From Asmaa Ankoush -1180411 to Everyone : دكتور الفايل بكون فيه الاشي اللي بدنا ننفذه؟؟
+16:44:28 From 1190114-Aseel Sabri to Everyone : احنا مركنين انه الحمعة

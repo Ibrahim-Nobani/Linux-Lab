@@ -1,0 +1,104 @@
+14:35:45 From Eid Zaben to Everyone : cd shahd
+14:35:46 From mahmoud rawagba-1180560 to Everyone : cd shahd
+14:35:49 From Majed Aboudi to Everyone : cd shahd
+14:35:56 From Summar khraishi to Everyone : je
+14:36:01 From Osama Rihami to Everyone : mkdir n
+14:36:02 From Eid Zaben to Everyone : mkdir hello
+14:36:03 From Summar khraishi to Everyone : cd *
+14:36:04 From mahmoud rawagba-1180560 to Everyone : mkdir n
+14:36:05 From 1182600-Raghad Rahil to Everyone : mkdir hello
+14:36:05 From 1171482-lama alhatel to Everyone : mkdir hello
+14:36:20 From mahmoud rawagba-1180560 to Everyone : ls
+14:36:21 From 1182600-Raghad Rahil to Everyone : ls
+14:36:22 From Eid Zaben to Everyone : ls
+14:38:21 From Mohammad Jubran to Everyone : cocalc
+14:39:40 From abdallah Bahrawi to Everyone : https://cocalc.com/projects/de2733f0-924a-40f2-8228-55d1d97e8f44/files/Welcome%20to%20CoCalc.term?session=default
+14:42:28 From abdallah Bahrawi to Everyone : https://cocalc.com/doc/terminal.html?fbclid=IwAR10XWTemP7oTj881UysPZcIacqX-nbrVJ1igKh2rs4TaJbY04pt3du3HPY
+14:42:35 From abdallah Bahrawi to Everyone : هاذ االي على ريتاج
+14:43:25 From mahmoud rawagba-1180560 to Everyone : المشكلة بالبراوزر بيقوللها
+14:46:47 From abdallah Bahrawi to Everyone : في إضافة لل vm بتكبر الشاشة
+14:47:39 From Bara Musleh to Everyone : تسحيها على الطرف
+14:47:43 From Bara Musleh to Everyone : وبتيجي لحالها
+14:47:49 From Bara Musleh to Everyone : مش شرط تكبس اشي
+14:49:30 From 1192963 - Eid Zaben to Everyone : yes
+14:49:35 From Summar khraishi to Everyone : ana
+14:49:37 From 1171482-lama alhatel to Everyone : me
+14:49:39 From 1192963 - Eid Zaben to Everyone : I can
+14:49:40 From 1182600-Raghad Rahil to Everyone : انا
+14:50:22 From Summar khraishi to Everyone : cd..
+14:51:48 From 1182600-Raghad Rahil to Everyone : no
+14:51:56 From Summar khraishi to Everyone : cd
+14:52:52 From Summar khraishi to Mohammad Jubran(Direct Message) : دكتور ممكن تعمل ريكورد
+14:55:55 From Summar khraishi to Everyone : cd ..
+14:58:01 From 1182600-Raghad Rahil to Everyone : copy or delete
+15:00:27 From mahmoud rawagba-1180560 to Everyone : طب كيف احذف كل الكوماندز ؟
+15:00:36 From 1182600-Raghad Rahil to Everyone : ctrl + l
+15:01:15 From 1173359-ManalAbuelouf to Everyone : tamam
+15:01:40 From 1182600-Raghad Rahil to Everyone : mv file.txt
+15:02:17 From 1192963 - Eid Zaben to Everyone : parent dir
+15:06:36 From 1171482-lama alhatel to Everyone : yes
+15:09:43 From mahmoud rawagba-1180560 to Everyone : mv
+15:16:41 From Aseel Sabri to Everyone : بشتغلش الكوماندز عندي زيكم
+15:17:15 From Aseel Sabri to Everyone : اه
+15:18:30 From Summar khraishi to Everyone : كاتبة غلط
+15:18:33 From 1192963 - Eid Zaben to Everyone : she has a typo in rmdir encs, her directory is ensc
+15:18:36 From Summar khraishi to Everyone : encs
+15:18:42 From Summar khraishi to Everyone : ,and ensc
+15:24:19 From mahmoud rawagba-1180560 to Everyone : طيب كيف اطبع عالفايل اسطر؟
+15:24:36 From 1182600-Raghad Rahil to Everyone : >>
+15:30:31 From Summar khraishi to Everyone : اناا ما اشتغل عندي الalias
+15:32:15 From Summar khraishi to Everyone : خلص اشتغل
+15:32:25 From Summar khraishi to Everyone : اه
+15:32:40 From Summar khraishi to Everyone : سمر
+15:32:45 From Summar khraishi to Everyone : هههههه
+15:39:39 From Osama Rihami to Everyone : ليش بختلف من جهاز لجهاز؟
+15:44:36 From 1171482-lama alhatel to Everyone : x
+15:44:41 From Bara Musleh to Everyone : ء
+15:44:41 From Ahmad Abbas to Mohammad Jubran(Direct Message) : 0
+15:44:42 From Aseel Sabri to Everyone : x
+15:44:42 From 1173359-ManalAbuelouf to Everyone : x
+15:44:43 From 1181034-Rawan Salama to Everyone : x
+15:44:44 From Bara Musleh to Everyone : x
+15:44:44 From Majed Aboudi to Everyone : x
+15:44:45 From 1192963 - Eid Zaben to Everyone : x
+15:44:45 From abdallah Bahrawi to Everyone : 0
+15:44:50 From Bara Musleh to Everyone : echo $x
+15:44:51 From Bara Musleh to Everyone : 0
+15:45:04 From 1173359-ManalAbuelouf to Everyone : $x
+15:45:04 From 1171482-lama alhatel to Everyone : echo $x
+15:45:30 From Summar khraishi to Mohammad Jubran(Direct Message) : يعطيك العافية
+15:45:48 From 1173359-ManalAbuelouf to Everyone : it doesn't save
+15:50:25 From 1173359-ManalAbuelouf to Everyone : n
+15:50:30 From 1171482-lama alhatel to Everyone : all clear
+15:50:52 From Bara Musleh to Everyone : كيف منطلع من الملف بعد ما فتحنا
+15:54:13 From 1173359-ManalAbuelouf to Everyone : yes
+15:54:19 From Osama Rihami to Everyone : ليش 7
+15:54:36 From 1181405- Duaa Awad to Everyone : لانو 3 بت
+15:54:38 From 1181405- Duaa Awad to Everyone : 111
+15:55:50 From 1182600-Raghad Rahil to Everyone : 723
+15:55:53 From Aseel Sabri to Everyone : 546
+15:55:58 From 1181405- Duaa Awad to Everyone : CHMODE 514
+15:56:00 From 1173359-ManalAbuelouf to Everyone : chmod 513
+15:56:01 From Bara Musleh to Everyone : 513
+15:56:01 From Majed Aboudi to Everyone : 546
+15:56:03 From 1171482-lama alhatel to Everyone : chmod 546 hello
+15:56:03 From 1192963 - Eid Zaben to Everyone : chmod 546
+15:56:04 From 1180175-Miral Rimawi to Everyone : 546
+15:56:10 From emil abulail to Everyone : chmod 546 hello
+15:56:11 From 1192963 - Eid Zaben to Everyone : chmod 546 hello
+15:56:53 From Osama Rihami to Everyone : شو يعني اكسكيوت
+15:57:07 From Osama Rihami to Everyone : تمام
+15:58:41 From Osama Rihami to Everyone : newfle
+15:58:47 From 1181034-Rawan Salama to Everyone : file
+15:58:51 From 1180175-Miral Rimawi to Everyone : عالفايل
+16:02:35 From 1181034-Rawan Salama to Everyone : echo*
+16:12:12 From Aseel Sabri to Everyone : خلص خلصنا؟
+16:12:15 From Aseel Sabri to Everyone : بنقدر نطلع؟
+16:13:13 From 1180175-Miral Rimawi to Everyone : يعطيكم العافية
+16:13:20 From Osama Rihami to Everyone : شو بتعمل env?
+16:13:23 From mahmoud rawagba-1180560 to Everyone : يعطيكم العافية
+16:13:48 From 1171482-lama alhatel to Everyone : يعطيكم العافية
+16:14:05 From Majed Aboudi to Everyone : يعطيكم العافية
+16:16:16 From Aseel Sabri to Everyone : السهم الواحد شو بعمل؟بس عمل كرييت للفايل عندي
+16:22:52 From 1182600-Raghad Rahil to Everyone : يعطيك العافية دكتور
+16:22:56 From 1192963 - Eid Zaben to Everyone : يعطيكم العافية
